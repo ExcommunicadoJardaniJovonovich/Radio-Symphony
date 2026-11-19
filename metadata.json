@@ -1,0 +1,6 @@
+{
+  "name": "Radio Symphony",
+  "description": "Live AM, FM, and SW radio player with background Media3 ExoPlayer playback, persistent Room favourites, mini-player, full-screen tuner, and Android battery optimization controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

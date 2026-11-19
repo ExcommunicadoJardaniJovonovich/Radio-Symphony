@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Radio Symphony</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_districts">Districts</string>
+    <string name="nav_favourites">Favourites</string>
+    <string name="nav_settings">Settings</string>
+
+    <string name="notification_channel_name">Radio Playback</string>
+    <string name="notification_channel_description">Persistent background radio streaming controls and live station status</string>
+    <string name="action_play">Play</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_previous_favourite">Previous favourite station</string>
+    <string name="action_next_favourite">Next favourite station</string>
+    <string name="action_toggle_favourite">Toggle favourite</string>
+    <string name="action_expand_player">Expand player</string>
+    <string name="action_collapse_player">Collapse player</string>
+    <string name="action_retry">Retry</string>
+
+    <string name="status_live">LIVE • Streaming</string>
+    <string name="status_buffering">Buffering stream…</string>
+    <string name="status_reconnecting">Reconnecting…</string>
+    <string name="status_paused">Paused</string>
+    <string name="status_stopped">Stopped</string>
+    <string name="status_ready">Ready to tune</string>
+    <string name="status_offline">Offline — favourites available, internet required to stream</string>
+</resources>
